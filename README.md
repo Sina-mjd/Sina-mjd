@@ -7,8 +7,8 @@
 
 
  🔭 I’m currently working on:
-    - C++
-    - Python
-    - SQL, SQL Server
+   - C++
+   - Python
+   - SQL, SQL Server
 
 
