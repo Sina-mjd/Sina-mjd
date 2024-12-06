@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Sina-mjd)
 
 
-![image](https://github.com/user-attachments/assets/bdf1c7af-2399-4e50-bad1-247b5b37376d)  I’m currently working on:
+ 4565202621637669942.svg  I’m currently working on:
 - C++
 - Python
 - SQL,SQL Server
