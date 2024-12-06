@@ -5,11 +5,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinamjden@gmail.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Sina-mjd)
 
-
 ![My Icon](https://i.imgur.com/fKGN4FB.svg)
 
 I’m currently working on:
 - C++
 - Python
 - SQL, SQL Server
+
 
