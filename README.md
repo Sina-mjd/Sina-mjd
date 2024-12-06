@@ -7,7 +7,8 @@
 
 - 📫 How to reach me:sinamjden@gmail.com
 
-  🔭 I’m currently working on:
+
+   🔭 I’m currently working on:
     - C++
     - Python
     - SQL, SQL Server
