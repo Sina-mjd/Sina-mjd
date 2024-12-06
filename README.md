@@ -6,8 +6,10 @@
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Sina-mjd)
 
 
- <img src="https://i.imgur.com/fKGN4FB.svg" alt="My Icon" /> I’m currently working on:
+![My Icon](https://i.imgur.com/fKGN4FB.svg)
+
+I’m currently working on:
 - C++
 - Python
-- SQL,SQL Server
+- SQL, SQL Server
 
