@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Sina-mjd)
 
 
- ![My Icon](4565202621637669942.svg) I’m currently working on:
+ ![My Icon](https://imgur.com/a/fKGN4FB) I’m currently working on:
 - C++
 - Python
 - SQL,SQL Server
