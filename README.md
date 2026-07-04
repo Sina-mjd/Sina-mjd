@@ -9,8 +9,9 @@
 
 
    🔭 I’m currently working on:
-    - C++
-    - Python
-    - SQL, SQL Server
+       Python Developer & Machine Learning Enthusiast
+       
+       
+    
 
 
